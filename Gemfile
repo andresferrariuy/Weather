@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rspec', '~> 3.7'
+gem 'json', '~> 2.1'
+gem 'byebug', '~> 10.0', '>= 10.0.2'
+gem 'httparty', '~> 0.16.2'
