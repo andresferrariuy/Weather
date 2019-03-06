@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
-gem 'rspec', '~> 3.7'
-gem 'json', '~> 2.1'
-gem 'byebug', '~> 10.0', '>= 10.0.2'
-gem 'httparty', '~> 0.16.2'
+gem 'rspec'
+gem 'json'
+gem 'byebug'
+gem 'httparty'
+gem 'selenium-webdriver'
+gem 'geckodriver-helper'
+gem "chromedriver-helper"
